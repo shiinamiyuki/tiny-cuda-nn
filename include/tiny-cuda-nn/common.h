@@ -132,6 +132,7 @@ enum class Activation {
 	Squareplus,
 	Softplus,
 	Tanh,
+	SiLU,
 	None,
 };
 
